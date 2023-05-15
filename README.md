@@ -17,10 +17,10 @@ Entrega do Desafio Criando uma DAO na Prática
     7. Criar uma LLC.
     
  ## Informações Adicionais:
-    1. Coleção de NFTs: (https://opensea.io/collection/arvore-de-dinheiro)
+    1. Coleção de NFTs: https://opensea.io/collection/arvore-de-dinheiro
 ![Sem título](https://github.com/6uilhermeTeixeira/SimpleDAOModel/assets/58309213/ea22260e-3b2f-4e60-8eca-6e6c1e317701)
 
-    2. Loja Virtual para Ajudar na Captação de Recursos: (https://gtshops.com/)
+    2. Loja Virtual para Ajudar na Captação de Recursos: https://gtshops.com/
 ![Sem título](https://github.com/6uilhermeTeixeira/SimpleDAOModel/assets/58309213/ce426e72-a805-4fae-8b35-1d33d3aa9989)
 
 
