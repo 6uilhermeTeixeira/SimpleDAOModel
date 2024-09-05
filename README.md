@@ -1,5 +1,5 @@
 # SimpleDAOModel
-Entrega do Desafio Criando uma DAO na Prática
+Entrega do Desafio Criando uma DAO na Prática desenvolvida durante formação de WEB3 da DIO (Digital Innovation One).
 
 # PROJETO DE DAO
  ## Informações Principais:
@@ -22,6 +22,3 @@ Entrega do Desafio Criando uma DAO na Prática
 
     2. Loja Virtual para Ajudar na Captação de Recursos: https://gtshops.com/
 ![Sem título](https://github.com/6uilhermeTeixeira/SimpleDAOModel/assets/58309213/ce426e72-a805-4fae-8b35-1d33d3aa9989)
-
-
-OBS: Código desenvolvido durante formação de WEB3 da DIO (Digital Innovation One)
