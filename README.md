@@ -1,5 +1,5 @@
-# SimpleDAOModel
-Entrega do Desafio Criando uma DAO na Prática desenvolvida durante formação de WEB3 da DIO (Digital Innovation One).
+# Simple DAO Model
+Entrega do Desafio Criando um projeto de DAO na Prática desenvolvida durante formação de WEB3 da DIO (Digital Innovation One).
 
 # PROJETO DE DAO
  ## Informações Principais:
